@@ -18,7 +18,3 @@ function draw() {
     line(230, 330, 300, 330);
   }
 }
-
-function keyPressed() {
-  open = !open;
-}
